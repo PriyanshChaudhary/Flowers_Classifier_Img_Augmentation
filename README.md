@@ -6,4 +6,4 @@ accuracy of the model.
 # Image augmentation:
 It can be defined as performing a number of augmentation actions on the images. These actions include resizing, rotation, zooming 
 of images to increase the number of training dataset samples and in turn improve the output accuracy of the machine learning model.
-increasin the usage of data analysis
+increasing the usage of data analysis
